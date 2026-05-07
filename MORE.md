@@ -1,16 +1,14 @@
-### Hobbies
+## Interests
 
-I do a lot of watching series on Netflix. Pretty much whatever sounds good. As
-of writing, I've just finished rewatching Sense8 for the first time in a few
-years. Highly recommended. Before that was The Magicians, which I feel more
-conflicted about, but on the whole I think it's alright.
+### Media
 
-I'm big into watching random YouTube videos. Have to admit it's mostly nonsense
-that I click on. But I do like more thoughtful content as well. [CinemaWins][cw]
-is great, I love [Philosophy Tube][pt] and [Pop Culture Detective][pcd]'s
-videos, and I literally can't recommend [Jacob Geller][jg] enough. If you need a
-specific recommendation, [The Golem and the Jewish Superhero][golem] is really
-good. But honestly, click on any video of his, and you'll be in for a treat.
+I watch a lot of random YouTube videos. Have to admit it's mostly nonsense that
+I click on; Northernlion is a consistent fave.. But I do like more thoughtful
+videos too! [CinemaWins][cw] is great, I love [Philosophy Tube][pt] and [Pop
+Culture Detective][pcd]'s videos, and I literally can't recommend [Jacob
+Geller][jg] enough. If you need a specific recommendation, [The Golem and the
+Jewish Superhero][golem] is really good. But honestly, click on any video of
+his, and you'll be in for a treat.
 
 [cw]: https://www.youtube.com/@CinemaWins
 [pt]: https://www.youtube.com/@PhilosophyTube
@@ -18,75 +16,73 @@ good. But honestly, click on any video of his, and you'll be in for a treat.
 [jg]: https://www.youtube.com/@JacobGeller
 [golem]: https://www.youtube.com/watch?v=pUBVSH6hBvY
 
-Also really like movies. Some recent favorites include Everything Everywhere All
-at Once, Nope, Across the Spider-Verse, and Dune (2022). Some wonderful
-not-as-recent (but still kinda recent) examples are Arrival, Annihilation (the
-book, too), and, well, Into the Spider-Verse. I adore the Legendary monsterverse
-franchise, i.e. the one that started with Godzilla (2014).
+When it comes to TV series and stuff like that, I've got a smattering of random
 
-And music!! I genuinely don't even know where to start when it comes to my
-favorite music. I'll have to really sit down and come up with a few
-recommendations because there is literally so much good music out there and I
-listen to a lot of it.
+Also really like movies. Everything Everywhere All at Once, Nope, and Arrival
+are probably my top three. Also great: Annihilation (the book, too), The
+Princess Bride, and Villeneuve's Dune (haven't seen part 2 yet, but soon!). I
+adore the Legendary monsterverse franchise, i.e. the one that started with
+Godzilla (2014). They're stupid but I love them.
 
-I love science fiction, when I read (usually with audiobooks, so not exactly
-_reading_), it's gonna be scifi almost every time. I'm also into writing it!
-Nothing public yet, but maybe I'll have some short stories or something I can
-link to soon. In 2023 I took my first shot at NaNoWriMo (which is ongoing as of
-writing this), and I'm hoping to continue writing after the month is over, as
-well as participate in future years!
+And music!! I hardly know where to start when it comes to my favorite music. I'd
+have to really sit down and come up with a few recommendations because there is
+literally so much good music out there and I listen to a lot of it. Listen to
+[Clipping][clipping] though. Their album [CLPPNG][CLPPNG] is a good place to
+start.
 
-### More Contact Info
+[clipping]: https://clppng.bandcamp.com/
+[CLPPNG]: https://clppng.bandcamp.com/album/clppng
 
-Here's a few more places to find me, which I didn't feel were needed on the main
-readme:
-
-- Twitter - [@foxscotch](https://twitter.com/Foxscotch)
-- Cohost - [@foxscotch](https://cohost.org/foxscotch)
-- FurAffinity - [foxscotch](https://www.furaffinity.net/user/foxscotch)
-- Steam - [foxscotch][steam] (hmu if you wanna play Apex)
-
-[steam]: https://steamcommunity.com/id/foxscotch
-
-I'll probably make a fediverse account sometime. But nothing yet.
+As for reading, I love science fiction. When I read (usually with audiobooks, so
+not exactly _reading_, but you understand), it's gonna be scifi almost every
+time. Sometimes fantasy. I often think about writing some scifi of my own, but I
+don't have anything to share at the moment. Maybe one day.
 
 ### \*Languages
 
-I mentioned "several other languages" in the main document, so in the interest
-of being complete, here is the list (at least the ones I remember), again in
-order from most experienced to least:
+I mentioned "several other languages" in the main document, so here is the full
+list (at least of the ones I remember), again in order from most experienced to
+least:
 
-- JavaScript (+ TypeScript, which I actually strongly prefer to use)
-- Python
+- JavaScript (and TypeScript, which I strongly prefer to use)
 - Ruby
+- Python
 - C#
 - Lua (also YueScript, which is a little nicer to look at)
+- Rust
+- Gleam
 - C
 - Java
 - Elixir
 - Haskell
 - PHP
 
-If I find the time, I'd really like to learn more of Haskell and Elixir. I'm
-also planning to start looking into Rust in the near future. It seems neat.
+The bar for inclusion on this list is pretty low; if I've taken the time to
+learn a language's syntax and used it for even a single tiny project, it's here.
+Order truly doesn't reflect preferences here, e.g. if I could choose tomorrow to
+never touch Ruby again for as long as I live, I would do so in a heartbeat. With
+that said, I do really like TypeScript. I like the JS bones, and TS fixes most
+of the real problems with it, if you ask me. Most of the others are either
+pretty good or at least tolerable. I just have a personal thing about Ruby now
+that I've worked with it nearly every weekday for over four years.
 
 Frameworks are kind of related to languages, so here's a few of those I like
 too. Also game engines and stuff like that cus why not. The ordering is more
 arbitrary for this one, but you could consider it to be sorted roughly by how
-much I like them. But I'm only including stuff I like to begin with! So don't
-think I dislike something just cus it's lower.
+much I like them. But I'm only including stuff I like to begin with!
 
 - Frontend
   - Svelte
-  - React
   - Vue
+  - React
 - Backend
   - Svelte*Kit*
-  - Django
+  - NestJS
   - Phoenix
+  - Django
   - ASP.NET Core
-  - Microframeworks bonus round: Express, Flask, and Sinatra
-- Other stuff
-  - Unity
+  - Tiny frameworks bonus round: Hono, Flask
+- Game Engines
   - Godot
   - LÖVE
+  - Unity
