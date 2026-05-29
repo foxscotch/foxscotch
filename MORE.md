@@ -3,7 +3,7 @@
 ### Media
 
 I watch a lot of random YouTube videos. Have to admit it's mostly nonsense that
-I click on; Northernlion is a consistent fave.. But I do like more thoughtful
+I click on; Northernlion is a consistent fave. But I do like more thoughtful
 videos too! [CinemaWins][cw] is great, I love [Philosophy Tube][pt] and [Pop
 Culture Detective][pcd]'s videos, and I literally can't recommend [Jacob
 Geller][jg] enough. If you need a specific recommendation, [The Golem and the
@@ -16,7 +16,10 @@ his, and you'll be in for a treat.
 [jg]: https://www.youtube.com/@JacobGeller
 [golem]: https://www.youtube.com/watch?v=pUBVSH6hBvY
 
-When it comes to TV series and stuff like that, I've got a smattering of random
+When it comes to TV series and stuff like that, Sense8 and Orphan Black are easy
+faves. Breaking Bad and Better Call Saul are also really good. I like watching
+junk TV sometimes too, like Shark Tank. That's really for the live commentary
+with whoever I'm watching with, though.
 
 Also really like movies. Everything Everywhere All at Once, Nope, and Arrival
 are probably my top three. Also great: Annihilation (the book, too), The
