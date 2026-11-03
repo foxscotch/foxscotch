@@ -7,8 +7,8 @@ some non-military government contract work, and a little in manufacturing.
 
 I'm most experienced with JavaScript (and TypeScript), Ruby (including Rails),
 Python, and C#, in that order. I've got varying degrees of experience with
-several other languages[\*](MORE.md#languages) too, and I love learning new
-ones, so I'm open to pretty much anything!
+several other languages too, and I love learning new ones, so I'm open to pretty
+much anything!
 
 I live in the Seattle area, and I'm accustomed to remote work, with and without
 time zone gaps. I'd love to work in-office, but I'm certainly open to hybrid or
